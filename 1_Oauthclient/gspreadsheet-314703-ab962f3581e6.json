@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "구글 프로젝트 ID",
+  "private_key_id": "개인 키 ID",
+  "private_key": "개인 키",
+  "client_email": "구글 클라이언트 이메일",
+  "client_id": "구글 클라이언트 ID",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "클라이언트 x509 인증서 URL"
+}
